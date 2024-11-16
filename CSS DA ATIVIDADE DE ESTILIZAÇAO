@@ -1,0 +1,22 @@
+/* Estilo para o corpo da página */
+body {
+    background-color: #f8d7e3; /* Cor de fundo rosa claro */
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Fonte mais descontraída e doce */
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para o cabeçalho */
+header {
+    background-color: #f9a8d4; /* Cor de fundo rosa mais forte */
+    color: white; /* Cor do texto branca */
+    text-align: center; /* Alinha o texto ao centro */
+    padding: 30px;
+    border-bottom: 5px solid #ff80ab; /* Borda inferior de cor rosa mais forte */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra suave para dar destaque */
+}
+
+/* Estilo para o título principal */
+h1 {
+    font-size: 3em;
+    font-family: 'Lobster', cursive; /* Fonte descontraída, dando um estilo mais do…
